@@ -51,4 +51,4 @@ Petclinic uses an in-memory database (HSQLDB) which gets populated at startup wi
 
 Tsvetan Tsvetkov
 Harald Neier
-Andrei Tofan
+Catalin Andrei Tofan
